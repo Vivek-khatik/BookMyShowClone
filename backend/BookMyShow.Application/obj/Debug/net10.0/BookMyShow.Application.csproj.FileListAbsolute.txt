@@ -1,0 +1,16 @@
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\bin\Debug\net10.0\BookMyShow.Application.deps.json
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\bin\Debug\net10.0\BookMyShow.Application.dll
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\bin\Debug\net10.0\BookMyShow.Application.pdb
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\bin\Debug\net10.0\BookMyShow.Domain.dll
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\bin\Debug\net10.0\BookMyShow.Domain.pdb
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.csproj.AssemblyReference.cache
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.AssemblyInfoInputs.cache
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.AssemblyInfo.cs
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.csproj.CoreCompileInputs.cache
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.sourcelink.json
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMySh.CE4B11A7.Up2Date
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.dll
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\refint\BookMyShow.Application.dll
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\BookMyShow.Application.pdb
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Application\obj\Debug\net10.0\ref\BookMyShow.Application.dll

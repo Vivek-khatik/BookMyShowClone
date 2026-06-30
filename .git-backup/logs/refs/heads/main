@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4490c37403af489efcab3231facace4ec8ffbf11 vkhatik-brinks <vkhatik@brinkshome.com> 1781514352 +0530	commit (initial): Initial solution structure
+4490c37403af489efcab3231facace4ec8ffbf11 7a2f5062c9e8d4a38527b3de6013e904ca1203e6 vkhatik-brinks <vkhatik@brinkshome.com> 1781614429 +0530	commit: Authentication module completed
+7a2f5062c9e8d4a38527b3de6013e904ca1203e6 9dc25e317b492fa399778bd2e573ecc817924ca7 vkhatik-brinks <vkhatik@brinkshome.com> 1782215848 +0530	commit: Implement movie, venue and show scheduling domains
+9dc25e317b492fa399778bd2e573ecc817924ca7 c1bfa09102e79723f2e954366137471a3d9cf057 vkhatik-brinks <vkhatik@brinkshome.com> 1782803210 +0530	commit: git commit -m "Add booking workflow, seat locking and backend architecture improvements"

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BookMyShow.API/BookMyShow.API.csproj" />
+  <Project Path="BookMyShow.Application/BookMyShow.Application.csproj" />
+  <Project Path="BookMyShow.Domain/BookMyShow.Domain.csproj" />
+  <Project Path="BookMyShow.Infrastructure/BookMyShow.Infrastructure.csproj" />
+  <Project Path="BookMyShow.Persistence/BookMyShow.Persistence.csproj" />
+  <Project Path="BookMyShow.Tests/BookMyShow.Tests.csproj" />
+</Solution>

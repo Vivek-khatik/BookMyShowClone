@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/backend/.vs/BookMyShow.slnx/config/applicationhost.config
+/backend/.vs/BookMyShow.slnx/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+/backend/.vs/BookMyShow.slnx/v18
+*.bin
+*.dll
+/backend/BookMyShow.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+/backend/BookMyShow.API/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+/backend/BookMyShow.API/bin/Debug/net10.0
+/backend/BookMyShow.API/obj/BookMyShow.API.csproj.nuget.dgspec.json
+/backend/BookMyShow.API/obj/BookMyShow.API.csproj.nuget.g.props
+/backend/BookMyShow.API/obj/BookMyShow.API.csproj.nuget.g.targets
+/backend/BookMyShow.API/obj/Debug/net10.0/EndpointInfo
+*.json
+/backend/BookMyShow.API/obj/Debug/net10.0/apphost.exe
+/backend/BookMyShow.API/obj/Debug/net10.0/BookMySh.08B302AE.Up2Date
+/backend/BookMyShow.API/obj/Debug/net10.0/BookMyShow.API.AssemblyInfo.cs
+*.pdb

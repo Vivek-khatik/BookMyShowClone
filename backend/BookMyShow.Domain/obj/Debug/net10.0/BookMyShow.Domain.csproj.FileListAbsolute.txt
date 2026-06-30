@@ -1,0 +1,12 @@
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\bin\Debug\net10.0\BookMyShow.Domain.deps.json
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\bin\Debug\net10.0\BookMyShow.Domain.dll
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\bin\Debug\net10.0\BookMyShow.Domain.pdb
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\BookMyShow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\BookMyShow.Domain.AssemblyInfoInputs.cache
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\BookMyShow.Domain.AssemblyInfo.cs
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\BookMyShow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\BookMyShow.Domain.sourcelink.json
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\BookMyShow.Domain.dll
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\refint\BookMyShow.Domain.dll
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\BookMyShow.Domain.pdb
+C:\Users\vivek.khatik\projects\BookMyShowClone\backend\BookMyShow.Domain\obj\Debug\net10.0\ref\BookMyShow.Domain.dll
